@@ -1,4 +1,4 @@
 # hello-world
 My first repository
-Aout Me
+About Me
 I am a programming student at Nashoba Valley Technical High School
